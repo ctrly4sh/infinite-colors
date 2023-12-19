@@ -5,4 +5,4 @@ Today I learned about Intervals and Timeout in javascript and how they can be us
 
 The refernce i used to learn is from MDN link -> https://developer.mozilla.org/en-US/docs/Web/API/setInterval
 
-live link hosted on netlify -> adhd-alert.netlify.app 
+live link hosted on netlify -> https://adhd-alert.netlify.app 
